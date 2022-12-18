@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal
 - 👀 I’m interested in Computer Science and Programming
-- 🌱 I’m currently pursuing Bachelors in Computer Applications
+- 🌱 I’m currently pursuing Masters in Computer Applications
 - 💞️ I’m looking to learn programming and explore Computer Science
 
 
